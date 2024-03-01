@@ -1,5 +1,3 @@
-![image](https://github.com/SavvyChic42/Android/assets/151141927/8b507095-99bd-4752-9ab0-3aa8a5fc7d82)
-
 In my previous article I wrote detailed steps on How to create a simple android application. In that particular app I also explained concepts of android button and basic concepts of android.
 You can find all my other articles in Android section.
 In this article we will create a calculator android app. This is a simple calculator with limited functionality.
